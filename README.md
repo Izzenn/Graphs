@@ -52,6 +52,6 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 ## Contact
 
 For any questions or feedback, feel free to reach out to the project author:
-- [Your Name]
-- Email: [Your Email]
+- Mohammad Izen
+- Email: [malikizen252@gmail.com]
 
